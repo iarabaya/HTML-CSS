@@ -1,0 +1,21 @@
+div{
+    background-color: red;
+    display:inline-flex;
+    width: 150px;
+    height: 150px;
+}
+
+p {
+    margin-top: 0px;
+    margin-left: 0px;
+    color:yellow; 
+    font-size: 20px;
+}
+
+.dos{
+    background-color: black;
+}
+
+.dos p{
+    color:white;
+}
