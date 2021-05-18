@@ -58,21 +58,19 @@ a {
 
 .venta{
     text-align: center;
-    height: 40em;
     font-family: 'Open Sans', sans-serif;
 }
 
 .card{
-    width: 25%;
+    width: 300px;
     height: 35em;
     background-color: rgba(230, 224, 224, 0.981);
     display: inline-block;
     border-radius: 50px;
     overflow: hidden;
+    margin: 20px;
 }
-.card + .card{
-    margin-left: 10px;
-}
+
 
 .venta div img{
     display: block;
